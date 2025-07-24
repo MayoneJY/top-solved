@@ -19,7 +19,7 @@ solved.ac 사용자의 상위 100개 문제 티어를 아름다운 SVG로 시각
 
 ```bash
 # 저장소 클론
-git clone https://github.com/MayoneJY/boj-tier-svg-generator.git
+git clone https://github.com/MayoneJY/top-solved.git
 cd topsolved
 
 # 의존성 설치
@@ -55,16 +55,16 @@ GET /api/boj?handle={사용자핸들}&row={한줄에표시할개수}
 |---------|------|------|--------|------|
 | `handle` | string | ✅ | - | BOJ/solved.ac 사용자 핸들 |
 | `row` | int | ✅ | - | 한 줄에 표시할 아이콘 개수 |
-| `base_color` | string | ❌ | `silver` | 배경 그라데이션 기본 색상 |
+| `base_color` | string | ❌ | `` | 배경 그라데이션 기본 색상 |
 
 ### 예시
 
 ```bash
 # 기본 사용법
-GET /api/boj?handle=tourist&row=20
+GET /api/boj?handle=mayone6063&row=20
 
 # 색상 적용
-GET /api/boj?handle=tourist&row=25&base_color=default
+GET /api/boj?handle=mayone6063&row=25&base_color=default
 ```
 
 ## 🎭 커스터마이징
