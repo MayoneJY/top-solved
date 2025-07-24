@@ -20,7 +20,7 @@ solved.ac 사용자의 상위 100개 문제 티어를 아름다운 SVG로 시각
 ```bash
 # 저장소 클론
 git clone https://github.com/MayoneJY/top-solved.git
-cd topsolved
+cd top-solved
 
 # 의존성 설치
 pip install -r requirements.txt
