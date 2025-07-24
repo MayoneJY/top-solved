@@ -85,3 +85,5 @@ GET /api/boj?handle=mayone6063&row=25&base_color=default
 ### 레이아웃 조정
 
 - `row`: 한 줄에 표시할 아이콘 개수 (권장: 10-25)
+
+[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FMayoneJY%2Ftop-solved&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
