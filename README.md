@@ -42,7 +42,7 @@ uvicorn main:app --reload
 GET /api/boj?handle={사용자핸들}&row={한줄에표시할개수}
 ```
 ```
-![top solved](https://topsolved.mayonedev.com/api/boj?handle={boj_id}&row=25")>
+![top solved](https://topsolved.mayonedev.com/api/boj?handle={boj_id}&row=25)
 ```
 ```
 <img src="https://topsolved.mayonedev.com/api/boj?handle={boj_id}&row=25">
