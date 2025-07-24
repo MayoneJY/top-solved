@@ -6,10 +6,14 @@ solved.ac 사용자의 상위 100개 문제 티어를 아름다운 SVG로 시각
 
 
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=default">
-<img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=bronze">
-<img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=silver">
-<img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=gold">
-<img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=platinum">
+<p align="center">
+<img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=bronze">
+<img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=silver">
+</p>
+<p align="center">
+<img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=gold">
+<img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=platinum">
+</p>
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=diamond">
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=ruby">
 
