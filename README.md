@@ -4,7 +4,7 @@ solved.ac 사용자의 상위 100개 문제 티어를 아름다운 SVG로 시각
 
 ## 🎨 미리보기
 
-```
+```html
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=default">
 ```
 
@@ -12,7 +12,7 @@ solved.ac 사용자의 상위 100개 문제 티어를 아름다운 SVG로 시각
 
 ---
 
-```
+```html
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=bronze">
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=silver">
 ```
@@ -24,7 +24,7 @@ solved.ac 사용자의 상위 100개 문제 티어를 아름다운 SVG로 시각
 
 ---
 
-```
+```html
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=gold">
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=platinum">
 ```
@@ -36,7 +36,7 @@ solved.ac 사용자의 상위 100개 문제 티어를 아름다운 SVG로 시각
 
 ---
 
-```
+```html
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=diamond">
 ```
 
@@ -44,7 +44,7 @@ solved.ac 사용자의 상위 100개 문제 티어를 아름다운 SVG로 시각
 
 ---
 
-```
+```html
 <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=ruby">
 ```
 
@@ -78,10 +78,10 @@ uvicorn main:app --reload
 ```
 GET /api/boj?handle={사용자핸들}&row={한줄에표시할개수}
 ```
-```
+```md
 ![top solved](https://topsolved.mayonedev.com/api/boj?handle={boj_id}&row=25)
 ```
-```
+```html
 <img src="https://topsolved.mayonedev.com/api/boj?handle={boj_id}&row=25">
 ```
 
